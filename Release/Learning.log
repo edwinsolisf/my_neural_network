@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\edwin\onedrive\documents\visual studio 2017\projects\learning\data.h(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\edwin\onedrive\documents\visual studio 2017\projects\learning\neuralnetwork.h(47): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  c:\users\edwin\onedrive\documents\visual studio 2017\projects\learning\neuralnetwork.h(249): note: see reference to class template instantiation 'NeuralNetwork<_Inputs,_Outputs,_Layers,_Neurons>' being compiled
+c:\users\edwin\onedrive\documents\visual studio 2017\projects\learning\neuralnetwork.h(266): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\edwin\onedrive\documents\visual studio 2017\projects\learning\neuralnetwork.h(64): warning C4244: 'argument': conversion from 'double' to 'const _T', possible loss of data
+          with
+          [
+              _T=float
+          ]
+  Generating code
+  1 of 191 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Learning.vcxproj -> C:\Users\edwin\OneDrive\Documents\Visual Studio 2017\Projects\Learning\Release\Learning.exe
